@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Rancho Santa Fe Wedding and Family Photographer]]></title>
+        <description><![CDATA[Rancho Santa Fe Wedding and Family Photographer]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Apr 2016 16:39:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rancho Santa Fe Family photographer]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/53d1161b-7025-4fdf-9e57-2e7f788faaf1.jpg">]]></description>
+            <link>undefinedrancho-santa-fe-family-photographer/index.html</link>
+            <guid isPermaLink="false">482346d8-cd1b-4b31-90a9-72d9ff36ea0a</guid>
+            <pubDate>Wed, 27 Apr 2016 16:39:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
