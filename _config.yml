@@ -1,0 +1,28 @@
+name: RanchoSantaFePhotos.com
+favicon: null
+layout_spectrum: 0.5193398345727473
+typography_spectrum: 0.7084027191158384
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.40162898832932115
+  lightness: 0.5222571801859885
+  saturation: 0.22958053811453283
+  rhythmicContrast: 0.2634012990165502
+purpose: []
