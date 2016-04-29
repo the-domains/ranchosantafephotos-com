@@ -1,5 +1,8 @@
-title: Rancho Santa Fe Wedding and Family Photographer
-purpose: []
+name: RanchoSantaFePhotos.com
+favicon: null
+layout_spectrum: 0.7459
+typography_spectrum: 0.7084027191158384
+title: 'Rancho Santa Fe Wedding and Family Photographer - So if you want to contact us then please do so at your earliest convenient time '
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0
-  lightness: 1
   brandColors:
     - '#030303'
     - '#2d2e2e'
     - '#7e7b76'
     - '#9e9a95'
     - '#cbc7c2'
+  brandStrength: 0
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 0
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: RanchoSantaFePhotos.com
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.7084027191158384
-layout_spectrum: 0.7459
+purpose: []
